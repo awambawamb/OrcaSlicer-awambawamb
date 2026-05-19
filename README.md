@@ -4,6 +4,8 @@
   <img alt="OrcaSlicer logo" src="resources/images/OrcaSlicer.png" width="15%" height="15%">
 </picture>
 
+## This version of OrcaSlicer has been forked on 2026-05-19 by awambawamb. I don't know if I'll ever be able to improve anything.
+
 ## This version of OrcaSlicer restores full BambuNetwork support for Bambu Lab printers.
 
 You are not limited to LAN only.  
